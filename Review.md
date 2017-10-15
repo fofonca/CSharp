@@ -27,7 +27,7 @@
 - They have a reference to the heap and if assign a reference type to another, the reference will be the same.
 - The heap it's only cleaned when the Garbage collection determines it is no longer needed.
 
-##Garbage Collector
+##Garbage Collection
 - The .NET's garbage collector manages the allocation and release of memory for your application
 - It enables you to develop your application without having to free memory
 - The managed heap is divided in some generations
